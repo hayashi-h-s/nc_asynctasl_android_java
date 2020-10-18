@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "nc_AsyncTask_android_java"
